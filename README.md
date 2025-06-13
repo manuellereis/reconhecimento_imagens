@@ -4,6 +4,18 @@ O **BlacklistX** é um sistema de reconhecimento facial inteligente, desenvolvid
 
 ---
 
+## 🎓 Disciplinas Relacionadas
+
+O desenvolvimento do BlacklistX está diretamente relacionado às seguintes disciplinas do curso:
+
+| Unidade | Disciplina                               | Aplicação no Projeto                                                                 |
+|---------|------------------------------------------|----------------------------------------------------------------------------------------|
+| 5       | Compilar e Interpretar                   | Organização e execução do código Python, interpretação dos módulos e scripts.         |
+| 6       | Análises Léxica e Sintática              | Detecção de padrões em imagens (rostos) e estruturação das comparações de dados.      |
+| 7       | Análise Semântica                        | Interpretação da similaridade facial como semântica aplicada à identificação.         |
+| 8       | Geração e Otimização de Código           | Organização do código para desempenho, modularização e automação com `app.sh`.        |
+
+
 ## 🚀 Funcionalidades
 
 - 🔍 **Detecção e reconhecimento facial** em imagens estáticas
